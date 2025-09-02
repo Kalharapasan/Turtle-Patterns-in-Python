@@ -2,9 +2,9 @@ from turtle import *
 from colorsys import *
 
 setposition(50, -50)
-speed(-30)
+speed(0)
 bgcolor('black')
-pensize(3)
+pensize(2)
 n = 100
 h = 0
 
